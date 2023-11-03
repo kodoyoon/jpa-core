@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5acd425a-36d0-44de-a32c-1c9cb91d26fe" name="Changes" comment="Entity 이해하기">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e1b2a83a-8221-4099-8d6e-8b5b63682ffd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e1b2a83a-8221-4099-8d6e-8b5b63682ffd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e1b2a83a-8221-4099-8d6e-8b5b63682ffd/storage_v2/_src_/schema/memo.OhUzAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e1b2a83a-8221-4099-8d6e-8b5b63682ffd/storage_v2/_src_/schema/memo.OhUzAA.meta" afterDir="false" />
+    <list default="true" id="5acd425a-36d0-44de-a32c-1c9cb91d26fe" name="Changes" comment="영속성 컨텍스트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/entity/Memo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/entity/Memo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EntityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EntityTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698992875848</updated>
-      <workItem from="1698992876837" duration="5838000" />
+      <workItem from="1698992876837" duration="8912000" />
     </task>
     <task id="LOCAL-00001" summary="Entity 이해하기">
       <option name="closed" value="true" />
@@ -149,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698996308210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="영속성 컨텍스트">
+      <option name="closed" value="true" />
+      <created>1698998911621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698998911621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Entity 이해하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entity 이해하기" />
+    <MESSAGE value="영속성 컨텍스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="영속성 컨텍스트" />
   </component>
 </project>
